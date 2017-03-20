@@ -1,0 +1,12 @@
+
+
+.vertical_menu_area .q_social_icon_holder {
+  margin: 0 !important;
+  float: left;
+}
+.breadcrumb a:hover {
+color: #cbcbce;
+}
+.portfolio_single h6, .portfolio_single h6 a {
+  color: #393939;
+}
